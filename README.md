@@ -58,17 +58,7 @@ If you have the GIT you can clone the application using below link else use the 
 
 > git clone https://github.com/aapkasachin/Job-Scheduler
 
-### For Development & Contributions
 
-Execute the below commands in separate terminal. 
-
-> Terminal#1: <mk-scheduler-webapp> mvn spring-boot:run
-
-> Terminal#2: <mk-scheduler-webapp> npm install && npm run start
-
-[Direct Download]: https://github.com/mohancse1707/mk-scheduler-webapp/archive/master.zip
-[Maven]:https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.5.4/apache-maven-3.5.4-bin.zip
-[Node]:https://nodejs.org/download/release/v10.15.3/
 
 
 
