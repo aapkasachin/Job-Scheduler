@@ -56,7 +56,7 @@ In order to check the priority job execution, I have considered frequency as cor
 
 If you have the GIT you can clone the application using below link else use the direct download link. 
 
-> git clone https://github.com/mohancse1707/mk-scheduler-webapp.git
+> git clone https://github.com/aapkasachin/Job-Scheduler
 
 [Direct Download][Direct Download]
 
