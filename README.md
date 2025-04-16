@@ -58,16 +58,6 @@ If you have the GIT you can clone the application using below link else use the 
 
 > git clone https://github.com/aapkasachin/Job-Scheduler
 
-[Direct Download][Direct Download]
-
-### Quick Deployment Steps
-
-After setting Java & Maven in path, execute the below command to start the application.
-
-> mvn spring-boot:run
-
-once started hit this URL: [http://localhost:8080/scheduler/#/](http://localhost:8080/scheduler/#/) 
-
 ### For Development & Contributions
 
 Execute the below commands in separate terminal. 
